@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP9Polymorphism\TugasP9Polymorphism\bin\Debug\net6.0\TugasP9Polymorphism.exe
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP9Polymorphism\TugasP9Polymorphism\bin\Debug\net6.0\TugasP9Polymorphism.deps.json
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP9Polymorphism\TugasP9Polymorphism\bin\Debug\net6.0\TugasP9Polymorphism.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP9Polymorphism\TugasP9Polymorphism\bin\Debug\net6.0\TugasP9Polymorphism.dll
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP9Polymorphism\TugasP9Polymorphism\bin\Debug\net6.0\TugasP9Polymorphism.pdb
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP9Polymorphism\TugasP9Polymorphism\obj\Debug\net6.0\TugasP9Polymorphism.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP9Polymorphism\TugasP9Polymorphism\obj\Debug\net6.0\TugasP9Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP9Polymorphism\TugasP9Polymorphism\obj\Debug\net6.0\TugasP9Polymorphism.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP9Polymorphism\TugasP9Polymorphism\obj\Debug\net6.0\TugasP9Polymorphism.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP9Polymorphism\TugasP9Polymorphism\obj\Debug\net6.0\TugasP9Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP9Polymorphism\TugasP9Polymorphism\obj\Debug\net6.0\TugasP9Polymorphism.dll
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP9Polymorphism\TugasP9Polymorphism\obj\Debug\net6.0\refint\TugasP9Polymorphism.dll
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP9Polymorphism\TugasP9Polymorphism\obj\Debug\net6.0\TugasP9Polymorphism.pdb
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP9Polymorphism\TugasP9Polymorphism\obj\Debug\net6.0\TugasP9Polymorphism.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP9Polymorphism\TugasP9Polymorphism\obj\Debug\net6.0\ref\TugasP9Polymorphism.dll
